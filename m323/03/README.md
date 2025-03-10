@@ -16,12 +16,6 @@
 5. **divideNumbers**: Berechnet nur eine Division, keine Seiteneffekte, daher pure.
 6. **printAndReturnString**: Gibt die Zeichenkette aus (`console.log`), wodurch ein Seiteneffekt entsteht, daher impure.
 
----
-
-### Nächste Schritte:
-
-- Impure Funktionen in pure Funktionen umschreiben (Aufgabe 2)
-- Eigene pure rekursive Funktionen schreiben (Aufgabe 3)
 
 
 
